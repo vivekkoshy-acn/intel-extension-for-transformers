@@ -12,7 +12,7 @@ The script `run_clm_no_trainer.py` supports `GPTJ`, `OPT`, `LLaMA`, `BLOOM` quan
 
 # Installation
 git clone https://github.com/intel/intel-extension-for-transformers.git
-cd intel_extension_for_transformers
+cd intel-extension-for-transformers
 pip install -r requirements.txt
 git submodule update --init --recursive
 python setup.py install
