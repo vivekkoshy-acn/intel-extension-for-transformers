@@ -41,7 +41,7 @@ python run_clm_no_trainer.py \
     --sq \
     --alpha 1.0 \
     --output_dir "saved_results" \
-    --ipex \
+    --ipex
 ```
 
 #### Accuracy with lm_eval
